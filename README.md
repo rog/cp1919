@@ -1,8 +1,7 @@
 [CP1919](https://github.com/rogr/cp1919)
 ======
 
-Animation of the Joy Division's “Unknown Pleasures” Album Art with [http://processing.org/](Processing).
-Capture 
+Animation of the Joy Division's “Unknown Pleasures” Album Art with [Processing](http://processing.org/).
 
 ---------------------------------------
 
